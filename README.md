@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Alessandro! 👋
 
-<!--
-**alessandrocentanni/alessandrocentanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical Lead** | **Full-Stack JavaScript Developer**  
+Bari, Italy | [LinkedIn](https://linkedin.com/in/alessandro-centanni/) | [GitHub](https://github.com/alessandrocentanni)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **8+ years** in full-stack development, specializing in **Node.js**, **Vue.js**, and **MongoDB**. I’ve led teams, built scalable platforms, and love optimizing workflows with tools like **Docker** and **Dokku**.
+ 
+🔧 **Tech I love**: JavaScript, React, Docker, AWS, GCP, RabbitMQ, CI/CD.
+
+🎯 Always looking for new challenges in tech and leadership. Let’s connect!
+
+---
