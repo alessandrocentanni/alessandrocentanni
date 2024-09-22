@@ -10,5 +10,3 @@ Bari, Italy | [LinkedIn](https://linkedin.com/in/alessandro-centanni/) | [GitHub
 🔧 **Tech I love**: JavaScript, React, Docker, AWS, GCP, RabbitMQ, CI/CD.
 
 🎯 Always looking for new challenges in tech and leadership. Let’s connect!
-
----
