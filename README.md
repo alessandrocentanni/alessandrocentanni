@@ -1,6 +1,6 @@
 # Hi, I'm Alessandro! 👋
 
-**Technical Lead** | **Full-Stack JavaScript Developer**  
+**Technical Lead** | **Senior Full-Stack JavaScript Developer**  
 Bari, Italy | [LinkedIn](https://linkedin.com/in/alessandro-centanni/) | [GitHub](https://github.com/alessandrocentanni)
 
 ---
